@@ -104,3 +104,13 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+#xorg-server
+#xorg-drivers
+xorg-apps
+
+#xorg searches for video drivers automatically
+
+#kde plasma
+plasma-meta
+kde-applications-meta
+packagekit-qt5
